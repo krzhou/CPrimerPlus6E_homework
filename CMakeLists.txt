@@ -25,3 +25,4 @@ add_executable(ch03hw08 ch03/hw08.c)
 
 # Chapter04 homeworks.
 add_executable(ch04hw01 ch04/hw01.c)
+add_executable(ch04hw02 ch04/hw02.c)
