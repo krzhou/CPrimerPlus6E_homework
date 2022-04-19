@@ -22,3 +22,13 @@ add_executable(ch03hw05 ch03/hw05.c)
 add_executable(ch03hw06 ch03/hw06.c)
 add_executable(ch03hw07 ch03/hw07.c)
 add_executable(ch03hw08 ch03/hw08.c)
+
+# Chapter04 homeworks.
+add_executable(ch04hw01 ch04/hw01.c)
+add_executable(ch04hw02 ch04/hw02.c)
+add_executable(ch04hw03 ch04/hw03.c)
+add_executable(ch04hw04 ch04/hw04.c)
+add_executable(ch04hw05 ch04/hw05.c)
+add_executable(ch04hw06 ch04/hw06.c)
+add_executable(ch04hw07 ch04/hw07.c)
+add_executable(ch04hw08 ch04/hw08.c)
