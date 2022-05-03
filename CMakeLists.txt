@@ -1,7 +1,7 @@
 cmake_minimum_required(VERSION 3.21)
 project(CPrimerPlus6E_homework C)
 
-set(CMAKE_C_STANDARD 90)
+set(CMAKE_C_STANDARD 99)
 
 # Chapter02 homeworks.
 set(chapter ch02)
