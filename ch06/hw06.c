@@ -6,11 +6,13 @@ int main(void) {
     int last;
 
     /* Read user input. */
-    printf("Start from:\n");
+    printf("Start from: ");
+    fflush(stdout);
     if (scanf("%d", &first) != 1) {
         return EXIT_FAILURE;
     }
-    printf("End with:\n");
+    printf("End with: ");
+    fflush(stdout);
     if (scanf("%d", &last) != 1) {
         return EXIT_FAILURE;
     }
