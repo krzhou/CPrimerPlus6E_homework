@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main(void) {
-    char ALPHABET[27] = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
+    const char ALPHABET[27] = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
     size_t INIT_INDEX = 5;
     for (int i = 0; i < 6; i++) {
         for (int j = 0; j <= i; j++) {
