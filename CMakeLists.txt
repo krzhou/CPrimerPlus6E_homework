@@ -1,7 +1,7 @@
 cmake_minimum_required(VERSION 3.21)
 project(CPrimerPlus6E_homework C)
 
-set(CMAKE_C_STANDARD 90)
+set(CMAKE_C_STANDARD 99)
 
 # Chapter02 homeworks.
 set(chapter ch02)
@@ -47,3 +47,24 @@ add_executable(${chapter}hw06 ${chapter}/hw06.c)
 add_executable(${chapter}hw07 ${chapter}/hw07.c)
 add_executable(${chapter}hw08 ${chapter}/hw08.c)
 add_executable(${chapter}hw09 ${chapter}/hw09.c)
+
+# Chapter06 homeworks.
+set(chapter ch06)
+add_executable(${chapter}hw01 ${chapter}/hw01.c)
+add_executable(${chapter}hw02 ${chapter}/hw02.c)
+add_executable(${chapter}hw03 ${chapter}/hw03.c)
+add_executable(${chapter}hw04 ${chapter}/hw04.c)
+add_executable(${chapter}hw05 ${chapter}/hw05.c)
+add_executable(${chapter}hw06 ${chapter}/hw06.c)
+add_executable(${chapter}hw07 ${chapter}/hw07.c)
+add_executable(${chapter}hw08 ${chapter}/hw08.c)
+add_executable(${chapter}hw09 ${chapter}/hw09.c)
+add_executable(${chapter}hw10 ${chapter}/hw10.c)
+add_executable(${chapter}hw11 ${chapter}/hw11.c)
+add_executable(${chapter}hw12 ${chapter}/hw12.c)
+add_executable(${chapter}hw13 ${chapter}/hw13.c)
+add_executable(${chapter}hw14 ${chapter}/hw14.c)
+add_executable(${chapter}hw15 ${chapter}/hw15.c)
+add_executable(${chapter}hw16 ${chapter}/hw16.c)
+add_executable(${chapter}hw17 ${chapter}/hw17.c)
+add_executable(${chapter}hw18 ${chapter}/hw18.c)
