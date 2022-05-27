@@ -72,3 +72,4 @@ add_executable(${chapter}hw18 ${chapter}/hw18.c)
 # Chapter07 homeworks.
 set(chapter ch07)
 add_executable(${chapter}hw01 ${chapter}/hw01.c)
+add_executable(${chapter}hw02 ${chapter}/hw02.c)
