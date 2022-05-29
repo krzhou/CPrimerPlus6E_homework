@@ -1,2 +1,7 @@
-/cmake-build-debug/
 /.idea/
+/cmake-build-debug/
+/cmake-build-release/
+/cmake-build-mingw-release/
+/cmake-build-mingw-debug/
+/cmake-build-wsl-ubuntu-debug/
+/cmake-build-wsl-ubuntu-release/
